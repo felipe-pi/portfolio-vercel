@@ -1,4 +1,4 @@
-import Header from './components/header';
+import Header from './components/Header';
 import Sobre from './components/Sobre';
 import Projetos from './components/Projetos';
 import './App.css';
