@@ -98,6 +98,8 @@ footer {
   border-radius: 50%;
   object-fit: cover;
   border: 3px solid #1e1e2f;
+  object-position: center;
+  background: white;
   flex-shrink: 0; /* impede a imagem de encolher */
 }
 
