@@ -4,7 +4,7 @@ function Sobre() {
       <h2>Sobre Mim</h2>
 
       <div className='sobre-container'>
-        <img src='portfolio-react/foto.jpg' className='foto-perfil' />
+        <img src='portfolio-react/public/foto.jpg' className='foto-perfil' />
 
         <p>
           Sou desenvolvedor focado em SAP ABAP, automação e desenvolvimento de
